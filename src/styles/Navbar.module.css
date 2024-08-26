@@ -1,0 +1,33 @@
+.navbar {
+  background-color: #1E1F22;
+  width: 100%;
+  max-height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.navbar ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+}
+
+.navbar li {
+  color: wheat;
+  font-weight: 500;
+  padding: 10px 30px;
+  margin: 10px 0px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.active{
+  background-color: rgb(84, 84, 252);
+  border-radius: 5px;
+}
+

@@ -1,0 +1,33 @@
+.footer{
+    background-color: #1E1F22;
+    width: 100%;
+    max-height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    position: relative;
+    right: 0;
+    left: 0;
+    bottom: 0;
+  }
+  
+  .footer ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    list-style-type: none;
+  }
+  
+  .footer li {
+    color: wheat;
+    font-weight: 500;
+    padding: 10px;
+    margin: 10px 30px;
+    font-size: 12px;
+    cursor: pointer;
+  }
+
+  .icon{
+    color: wheat;
+    margin-left: 10px;
+  }

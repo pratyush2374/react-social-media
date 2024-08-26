@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid" width="200" height="200" style="shape-rendering: auto; display: block; background: rgb(255, 255, 255);">
+<style>
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+    --rem: 16;
+    --blue: #0071f3;
+    --indigo: #6610f2;
+    --purple: #6f42c1;
+    --pink: #e11e77;
+    --red: #dc3545;
+    --orange: #fd7e14;
+    --yellow: #ffc107;
+    --green: #25bc32;
+    --teal: #20c997;
+    --cyan: #17a2b8;
+    --white: #fff;
+    --gray: #6c757d;
+    --gray-dark: #343a40;
+    --primary: #0071f3;
+    --secondary: #6c757d;
+    --success: #25bc32;
+    --info: #17a2b8;
+    --warning: #ffc107;
+    --danger: #dc3545;
+    --light: #f8f9fa;
+    --dark: #343a40;
+    --breakpoint-xs: 0;
+    --breakpoint-sm: 576px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 992px;
+    --breakpoint-xl: 1200px;
+    --font-family-sans-serif: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    --font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+    --z-base: 1;
+    --z-float: 1000;
+    --z-fixed: 2000;
+    --z-modal: 3000;
+    --z-splash: 4000;
+    --z-notify: 5000;
+    --z-max: 99999999;
+    --font-code: 'Roboto Mono',sans-serif;
+    --font-code-weight: 300;
+    --font-body: 'Rubik';
+    --font-body-weight: 300;
+    --font-head: 'Oxygen';
+    --font-head-weight: 700;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    font-family: var(--font-body),sans-serif;
+    font-weight: var(--font-body-weight);
+    word-wrap: break-word;
+    font-size: 16px;
+    width: 200;
+    height: 200;
+    box-sizing: border-box;
+    overflow: hidden;
+    vertical-align: middle;
+    shape-rendering: auto;
+    display: block;
+    background: rgb(255, 255, 255);
+</style>
+
+<g data-idx="1">
+    <circle fill="#ff5863" r="5" cy="50" cx="11" data-idx="2">
+      <animate attributeName="cy" values="50;30;50" dur="1s" begin="0s" repeatCount="indefinite" />
+    </circle>
+    <circle fill="#5b7eff" r="5" cy="50" cx="22" data-idx="4">
+      <animate attributeName="cy" values="50;30;50" dur="1s" begin="0.125s" repeatCount="indefinite" />
+    </circle>
+    <circle fill="#73f86a" r="5" cy="50" cx="33" data-idx="6">
+      <animate attributeName="cy" values="50;30;50" dur="1s" begin="0.25s" repeatCount="indefinite" />
+    </circle>
+    <circle fill="#ffdf40" r="5" cy="50" cx="44" data-idx="8">
+      <animate attributeName="cy" values="50;30;50" dur="1s" begin="0.375s" repeatCount="indefinite" />
+    </circle>
+    <circle fill="#ff5863" r="5" cy="50" cx="55" data-idx="10">
+      <animate attributeName="cy" values="50;30;50" dur="1s" begin="0.5s" repeatCount="indefinite" />
+    </circle>
+    <circle fill="#5b7eff" r="5" cy="50" cx="66" data-idx="12">
+      <animate attributeName="cy" values="50;30;50" dur="1s" begin="0.625s" repeatCount="indefinite" />
+    </circle>
+    <circle fill="#73f86a" r="5" cy="50" cx="77" data-idx="14">
+      <animate attributeName="cy" values="50;30;50" dur="1s" begin="0.75s" repeatCount="indefinite" />
+    </circle>
+    <circle fill="#ffdf40" r="5" cy="50" cx="88" data-idx="16">
+      <animate attributeName="cy" values="50;30;50" dur="1s" begin="0.875s" repeatCount="indefinite" />
+    </circle>
+  </g>
+  <text data-watermark="true" text-anchor="middle" dominant-baseline="middle" stroke-opacity="0.1" fill="black" fill-opacity="0.1" stroke="white" stroke-width="1" font-size="5.0" x="50" y="50" data-idx="19" style="opacity: 1; font-size: 5px;">.</text>
+</svg>
+

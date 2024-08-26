@@ -1,0 +1,77 @@
+/* Post.module.css */
+
+.post {
+  background-color: #1E1F22;
+  border: 3px solid #353535;
+  color: rgb(245, 230, 202);
+  padding: 50px;
+  margin: 20px auto;
+  width: 40%;
+  border-radius: 10px;
+  position: relative;
+}
+
+.postTitle {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+
+.postBody {
+  font-size: 1rem;
+  line-height: 1.6;
+  margin: 0px 0px 30px 30px;
+}
+
+.postTags {
+  margin-top: 5px;
+}
+
+.tag {
+  margin-right: 10px;
+  font-size: 0.9rem;
+}
+
+.outer {
+  margin-top: 40px;
+  min-height: 100%;
+}
+
+.reactions{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.reactions p {
+  margin: 0px 10px;
+}
+
+.iconLike{
+  font-size: 30px;
+  transition: 0.2s color ease-out;
+  &:hover{
+    color: rgb(84, 252, 109);
+  }
+}
+
+.iconDislike{
+  font-size: 30px;
+  transition: 0.2s color ease-out;
+  &:hover{
+    color: rgb(252, 98, 84);
+  }
+}
+
+.del{
+  font-size: 30px;
+  color: rgb(245, 230, 202);
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 5px;
+  transition: 0.2s color ease-out;
+  &:hover{
+    color: rgb(252, 98, 84);
+  }
+}

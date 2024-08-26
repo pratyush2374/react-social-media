@@ -1,0 +1,18 @@
+.noPost{
+    color: wheat;
+    width: 300px;
+    height: 30vh;
+    margin: 30vh auto;
+    text-align: center;
+}
+
+.generate{
+    width: 150px;
+    height: 50px;
+    color: white;
+    background-color: rgb(84, 84, 252);
+    border-radius: 5px;
+    margin-top: 25px;
+    font-size: 12px;
+    font-weight: 700;
+}
